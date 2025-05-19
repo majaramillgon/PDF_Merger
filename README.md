@@ -40,5 +40,8 @@ Run the script
 poetry run python main.py
 ```
 
+# Author
+Martin Jaramillo
+
 
  
