@@ -26,16 +26,6 @@ cd pdf-tool
 poetry install
 ```
 
-# Folder Structure
-.
-├── inputs/                 # Place your input PDFs here
-│   └── Allianz_annual_2024.pdf
-├── outputs/                # Merged PDFs will be saved here
-│   └── merged_output.pdf
-├── main.py                 # Main script
-├── poetry.lock
-└── pyproject.toml
-
 # Usage
 Place the PDFs you want to merge into the inputs/ folder.
 
