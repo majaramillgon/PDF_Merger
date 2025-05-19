@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pdf-tool"
+version = "0.1.0"
+description = ""
+authors = ["Martin Jaramillo"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+pypdf2 = "^3.0.1"
+pycryptodome = "^3.23.0"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
